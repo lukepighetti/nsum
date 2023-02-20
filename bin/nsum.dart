@@ -3,7 +3,7 @@ void main(List<String> arguments) {
   final target = 898 - offset;
 
   final inventory = {
-    535: 1,
+    535: 1, // CT 26 E
     329: 1,
     315: 1,
     230: 2,
